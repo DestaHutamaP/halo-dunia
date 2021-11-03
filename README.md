@@ -6,3 +6,4 @@ tutorial github sebagai remote
 This repository is built step by step in the tutorial.
 
 sekarang adalah perubahan di github
+sekarang adalah perubahan di github2
